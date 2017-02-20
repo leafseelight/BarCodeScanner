@@ -22,10 +22,6 @@ Java 接收扫码枪数据
 * <a href="intent://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https://qr.alipay.com/aex03674qm0prhhrtepjcbb&_t=1472443966571#Intent;scheme=alipayqr;package=com.eg.android.AlipayGphone;end">手机支付宝打赏</a>
 * <a href="https://www.paypal.me/yejg">Paypal.me</a>
 
-### Thanks
-
- * [AlipayZeroSdk](https://github.com/fython/AlipayZeroSdk)
-
 ### License
 
 ```
