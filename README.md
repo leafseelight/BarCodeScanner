@@ -9,6 +9,7 @@ Java 接收扫码枪数据
 <a href="./art/display.png"><img src="./art/display.png" width="100%"/></a>
 
 ### 代码
+
 运行ScanBarcodeListener.java就可以了，直接看看代码吧！
 
 ### 联系我
@@ -21,6 +22,10 @@ Java 接收扫码枪数据
 * <a href="./art/wechatpay.png"><img src="./art/wechatpay.png" width="30%"/></a>    <a href="./art/alipay.jpg"><img src="./art/alipay.jpg" width="30%"/></a>
 * <a href="intent://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https://qr.alipay.com/aex03674qm0prhhrtepjcbb&_t=1472443966571#Intent;scheme=alipayqr;package=com.eg.android.AlipayGphone;end">手机支付宝打赏</a>
 * <a href="https://www.paypal.me/yejg">Paypal.me</a>
+
+### 致谢
+
+[JAVA读取USB扫描枪](https://www.oschina.net/code/snippet_121944_14940)
 
 ### License
 
