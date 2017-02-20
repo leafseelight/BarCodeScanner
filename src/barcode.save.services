@@ -1,0 +1,4 @@
+#可以在这里指定多个类，这些类必须实现barcode.BarcodeSaveService的public void save(String barcode);方法和public void finish();方法
+#每个类一行，必须是完整类名
+#本文件保存的格式为UTF-8
+barcode.BarcodeSaveToFile
