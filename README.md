@@ -17,7 +17,7 @@ Java 接收扫码枪数据
 * 新浪微博：[@淡墨沁心](http://weibo.com/leafseelight)
 * Email：ye.jg@outlook.com
 
-如能荣幸给您带来帮助，可以请我喝杯咖啡支持一下我→ 微信orPaypal
+### 如能荣幸给您带来帮助，可以请我喝杯咖啡支持一下我→ 微信orPaypal
 
 * <a href="./art/wechatpay.png"><img src="./art/wechatpay.png" width="30%"/></a>
 * <a href="https://www.paypal.me/yejg">Paypal.me</a>
